@@ -1,0 +1,26 @@
+body{
+}
+.title{
+    color: darkgreen;
+    font-family: "Avenir Next", sans-serif;
+    font-size: 50pt;
+    font-weight: 300;
+    text-align: center;
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.slider{
+    height: 640px;
+    width: 600px;
+    overflow: hidden;
+    margin: 30px auto;
+}
+.slider > img{
+    display: none;
+}
+
+
